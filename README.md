@@ -4,12 +4,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/9V5zZ9l.gif" width="80%">
-</div>
-
----
-
 ## 🗺️ **Cartographer's Arsenal** (⚔️ *Level 99 Tools*)  
 
 | **GIS & Remote Sensing**          | **Geospatial Magic**              |
@@ -38,7 +32,3 @@
 > *— Linrane, Master of Geospatial Mysteries*  
 
 ---
-
-<div align="center">
-  <img src="https://i.imgur.com/3mXhQqZ.gif" width="60%">
-</div>
