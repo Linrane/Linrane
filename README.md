@@ -1,4 +1,4 @@
-<h1 align="center">✨ Linrane · 霖冉 ✨</h1>
+<h1 align="center">✨ Linrane · 凌然 ✨</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5D9B9B&center=true&vCenter=true&width=500&lines=Geoinformatics+%26+Remote+Sensing;Satellite+%26+Anime+Lover;Mapping+Earth+with+%F0%9F%92%BB+%2B+%F0%9F%8C%8C;Always+exploring+pixels+and+stories" alt="Typing SVG" />
