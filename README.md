@@ -1,42 +1,44 @@
-# 🌍 Hey there! I'm Linrane
-
-Geospatial Scientist & Remote Sensing Analyst 🛰️  
-*Currently working with geospatial data and keeping learning*  
-
----
-
-## 🗺️ GIS & Remote Sensing Toolkit
-
-![QGIS](https://img.shields.io/badge/-QGIS-0066CC?style=for-the-badge&logo=qgis&logoColor=white&color=0066CC)  
-![GDAL](https://img.shields.io/badge/-GDAL-0066CC?style=for-the-badge&logo=gdal&logoColor=white&color=0066CC)  
-![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-FFA700?style=for-the-badge&logo=google-earth-engine&logoColor=black&color=FFA700)  
-![Sentinel](https://img.shields.io/badge/-Sentinel-0070C0?style=for-the-badge&logo=esa&logoColor=white&color=0070C0)  
-![Landsat](https://img.shields.io/badge/-Landsat-0070C0?style=for-the-badge&logo=nasa&logoColor=white&color=0070C0)  
-![PostGIS](https://img.shields.io/badge/-PostGIS-0066CC?style=for-the-badge&logo=postgresql&logoColor=white&color=0066CC)  
-![ENVI](https://img.shields.io/badge/-ENVI-0066CC?style=for-the-badge&logo=envi&logoColor=white&color=0066CC)  
-![SAR](https://img.shields.io/badge/-SAR-0066CC?style=for-the-badge&logo=esa&logoColor=white&color=0066CC)  
+# 🌐✨ **Linrane** ✨🌍  
+*Geospatial Alchemist & Remote Sensing Adventurer*  
+*Unlocking Earth's secrets with satellite magic*  
 
 ---
 
-## 📊 Geospatial Analysis Capabilities
-
-![Land Cover Classification](https://img.shields.io/badge/-Land%20Cover%20Classification-0070C0?style=for-the-badge&logoColor=white&color=0070C0)  
-![Change Detection](https://img.shields.io/badge/-Change%20Detection-0070C0?style=for-the-badge&logoColor=white&color=0070C0)  
-![NDVI Analysis](https://img.shields.io/badge/-NDVI%20Analysis-0070C0?style=for-the-badge&logoColor=white&color=0070C0)  
-![Time Series Analysis](https://img.shields.io/badge/-Time%20Series%20Analysis-0070C0?style=for-the-badge&logoColor=white&color=0070C0)  
-![Multispectral Processing](https://img.shields.io/badge/-Multispectral%20Processing-0070C0?style=for-the-badge&logoColor=white&color=0070C0)  
+<div align="center">
+  <img src="https://i.imgur.com/9V5zZ9l.gif" width="80%">
+</div>
 
 ---
 
-## 🌐 Geospatial Statistics
+## 🗺️ **Cartographer's Arsenal** (⚔️ *Level 99 Tools*)  
 
-![Satellite Data Processed](https://img.shields.io/badge/Satellite%20Data%20Processed-150%2B%20GB-yellow?style=for-the-badge&logo=google-earth-engine&logoColor=FFA700)  
-![Landsat Scenes Analyzed](https://img.shields.io/badge/Landsat%20Scenes-8k%2B-orange?style=for-the-badge&logo=nasa&logoColor=0070C0)  
-![Projects Completed](https://img.shields.io/badge/Projects%20Completed-35%2B-green?style=for-the-badge&logo=map&logoColor=0066CC)  
-![Analysis Accuracy](https://img.shields.io/badge/Analysis%20Accuracy-92%25-brightgreen?style=for-the-badge&logo=check&logoColor=white)  
-![Avg. Processing Time](https://img.shields.io/badge/Avg.%20Processing%20Time-4.2%20hrs-blue?style=for-the-badge&logo=timer&logoColor=white)  
+| **GIS & Remote Sensing**          | **Geospatial Magic**              |
+|-----------------------------------|-----------------------------------|
+| ![QGIS](https://img.shields.io/badge/-QGIS-0066CC?style=for-the-badge&logo=qgis&logoColor=white&color=0066CC) | ![Land Cover](https://img.shields.io/badge/-Land%20Cover%20Classification-4CAF50?style=for-the-badge&logoColor=white&color=4CAF50) |
+| ![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-FFA700?style=for-the-badge&logo=google-earth-engine&logoColor=black&color=FFA700) | ![NDVI](https://img.shields.io/badge/-NDVI%20Analysis-FF9800?style=for-the-badge&logoColor=white&color=FF9800) |
+| ![Sentinel](https://img.shields.io/badge/-Sentinel-0070C0?style=for-the-badge&logo=esa&logoColor=white&color=0070C0) | ![Change Detection](https://img.shields.io/badge/-Change%20Detection-9C27B0?style=for-the-badge&logoColor=white&color=9C27B0) |
+| ![Landsat](https://img.shields.io/badge/-Landsat-0070C0?style=for-the-badge&logo=nasa&logoColor=white&color=0070C0) | ![Time Series](https://img.shields.io/badge/-Time%20Series%20Analysis-2196F3?style=for-the-badge&logoColor=white&color=2196F3) |
+| ![ArcGIS](https://img.shields.io/badge/-ArcGIS-0066CC?style=for-the-badge&logo=arcgis&logoColor=white&color=0066CC) | ![Multispectral](https://img.shields.io/badge/-Multispectral%20Processing-FF5722?style=for-the-badge&logoColor=white&color=FF5722) |
 
 ---
 
-> "The Earth is a beautiful and complex system. My mission is to decode its patterns through geospatial intelligence."  
-> *— Linrane, Geospatial Scientist*
+## 🌍 **Geospatial Chronicles** (📊 *Adventure Stats*)  
+
+| **Stat**                          | **Progress**                      |
+|-----------------------------------|-----------------------------------|
+| 📦 **Satellite Data Processed**    | <span style="color:#FF9800">150+ GB</span> <progress value="95" max="100" style="width:100%"></progress> |
+| 📸 **Landsat Scenes Analyzed**     | <span style="color:#4CAF50">8k+</span> <progress value="85" max="100" style="width:100%"></progress> |
+| 🗺️ **Projects Completed**          | <span style="color:#2196F3">35+</span> <progress value="75" max="100" style="width:100%"></progress> |
+| 🔍 **Accuracy Achieved**           | <span style="color:#FF5722">92%</span> <progress value="92" max="100" style="width:100%"></progress> |
+| ⏱️ **Avg. Processing Time**        | <span style="color:#9C27B0">4.2 hrs</span> <progress value="40" max="100" style="width:100%"></progress> |
+
+---
+
+> 🌟 **"I don't just see pixels—I see stories written in satellite light."**  
+> *— Linrane, Master of Geospatial Mysteries*  
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/3mXhQqZ.gif" width="60%">
+</div>
