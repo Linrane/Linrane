@@ -11,7 +11,7 @@
   <h2 style="margin: 6px 0 4px; color: #2F4F4F;">linrane</h2>
   <p style="font-size: 1.1em; max-width: 600px; color: #3B5E5E;">
     🌍 把遥感卫星当作眼睛，把二次元当作心灵栖息地<br/>
-    🛰️ 地理信息科学 · 深度学习 · 开源 geek · 番剧收藏家
+    🛰️ 地理信息科学 · 深度学习 · 开源GEEK · 番剧收藏家
   </p>
   <br/>
   <!-- 社交/联系徽章 -->
@@ -24,7 +24,7 @@
 <br/>
 
 <!-- ================= 专业领域卡片 ================= -->
-<h2 align="center">🛰️ 专业·遥感地信 ｜ Geospatial Expertise</h2>
+<h2 align="center">🛰️ 遥感地信 ｜ Geospatial Expertise</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center; margin: 30px 0;">
   <!-- 遥感处理卡片 -->
   <div style="border: 1px solid #dde7e7; border-radius: 28px; padding: 20px 18px; width: 260px; background: #fafdfd; box-shadow: 0 8px 18px -6px #bcd0d0;">
@@ -40,7 +40,7 @@
   </div>
   <!-- GIS 与制图卡片 -->
   <div style="border: 1px solid #dde7e7; border-radius: 28px; padding: 20px 18px; width: 260px; background: #fafdfd; box-shadow: 0 8px 18px -6px #bcd0d0;">
-    <h3 style="margin: 0 0 12px; color: #1E4A4A;">🗺️ GIS 与制图</h3>
+    <h3 style="margin: 0 0 12px; color: #1E4A4A;">🗺️ GIS 与 制图 | GIS & Cartography </h3>
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; justify-items: center;">
       <img src="https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
       <img src="https://img.shields.io/badge/-ArcGIS-2C7A9B?style=flat-square&logo=arcgis&logoColor=white" />
@@ -52,7 +52,7 @@
   </div>
   <!-- 深度学习·地学卡片 -->
   <div style="border: 1px solid #dde7e7; border-radius: 28px; padding: 20px 18px; width: 260px; background: #fafdfd; box-shadow: 0 8px 18px -6px #bcd0d0;">
-    <h3 style="margin: 0 0 12px; color: #1E4A4A;">🤖 深度学习·地学</h3>
+    <h3 style="margin: 0 0 12px; color: #1E4A4A;">🤖 深度学习·地学 | Deeplearning·Geography </h3>
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; justify-items: center;">
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -85,7 +85,7 @@
   <div style="display: inline-block; background: linear-gradient(145deg, #fff3f8, #ffe4ed); border-radius: 48px; padding: 16px 28px; box-shadow: 0 6px 16px #ffd9e2;">
     <p style="font-size: 1.2em; margin: 0;">
       📺 近期在看：<code>葬送的芙莉莲</code> · <code>迷宫饭</code> · <code>无职转生</code><br/>
-      🎵 无限循环：<em>「使一颗心免于哀伤」</em> · 各种 anime OP/ED<br/>
+      🎵 无限循环：<em>「使一颗心免于哀伤」</em> · 各种 动画 OP/ED<br/>
       💬 “卫星图上的每一个像素，都是我冒险的地图；番剧里的每一个世界，都是心灵放飞的场所。”
     </p>
     <br/>
