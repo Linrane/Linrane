@@ -97,30 +97,6 @@
   </div>
 </div>
 
-<br/><br/>
-
-<!-- ================= GitHub 统计 ================= -->
-<h2 align="center">📊 编码能量 ｜ GitHub Dynamics</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=linrane&show_icons=true&theme=vue&hide_border=true&bg_color=90,f9fcfc,d5f0f0&title_color=1E6F6F&icon_color=5D9B9B&text_color=2F4F4F" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=linrane&show_icons=true&theme=vue-dark&hide_border=true&bg_color=30,0a1f1f,123838&title_color=9fd9d9&icon_color=6bb5b5&text_color=cce0e0" media="(prefers-color-scheme: dark)" />
-    <img width="32%" style="border-radius: 16px; box-shadow: 0 8px 20px rgba(0,40,40,0.1);" src="https://github-readme-stats.vercel.app/api?username=linrane&show_icons=true&theme=vue&hide_border=true&bg_color=90,f9fcfc,d5f0f0&title_color=1E6F6F&icon_color=5D9B9B&text_color=2F4F4F" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=linrane&theme=vue&hide_border=true&background=f9fcfc&stroke=9bc6c6&ring=1E6F6F&fire=FF8A80&currStreakLabel=2F4F4F" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=linrane&theme=vue-dark&hide_border=true&background=0a1f1f&stroke=2d5a5a&ring=6bb5b5&fire=FFA78E&currStreakLabel=cce0e0" media="(prefers-color-scheme: dark)" />
-    <img width="32%" style="border-radius: 16px; box-shadow: 0 8px 20px rgba(0,40,40,0.1);" src="https://github-readme-streak-stats.herokuapp.com/?user=linrane&theme=vue&hide_border=true&background=f9fcfc&stroke=9bc6c6&ring=1E6F6F&fire=FF8A80&currStreakLabel=2F4F4F" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=linrane&layout=compact&langs_count=8&theme=vue&hide_border=true&bg_color=f9fcfc&title_color=1E6F6F&text_color=2F4F4F" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=linrane&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&bg_color=0a1f1f&title_color=9fd9d9&text_color=cce0e0" media="(prefers-color-scheme: dark)" />
-    <img width="32%" style="border-radius: 16px; box-shadow: 0 8px 20px rgba(0,40,40,0.1);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linrane&layout=compact&langs_count=8&theme=vue&hide_border=true&bg_color=f9fcfc&title_color=1E6F6F&text_color=2F4F4F" />
-  </picture>
-</div>
-
-<br/>
-
 <!-- ================= 趣味分割 + 语录 ================= -->
 <hr style="width:80%; border:1px solid #d0e0e0; opacity:0.5; margin:30px auto;" />
 <div align="center">
