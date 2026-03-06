@@ -44,7 +44,7 @@
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; justify-items: center;">
       <img src="https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
       <img src="https://img.shields.io/badge/-ArcGIS-2C7A9B?style=flat-square&logo=arcgis&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgis&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/-GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
       <img src="https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
