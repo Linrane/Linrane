@@ -104,6 +104,7 @@
     「 空から見た地球は、アニメのワンシーンみたいだね  」<br/>
     <em>(从天上望见的地球，就像动画里的一幕呢。)</em>
   </p>
+  ![Profile Views](https://count.getloli.com/get/Linrane?theme=gelbooru)
   <p>
     <a href="https://github.com/linrane?tab=repositories"><img src="https://img.shields.io/badge/📦%20all%20repositories-1E6F6F?style=for-the-badge" /></a>
     <a href="https://twitter.com/linrane_geo"><img src="https://img.shields.io/badge/twitter-%40linrane__geo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
