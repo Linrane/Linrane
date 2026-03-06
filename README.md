@@ -89,6 +89,14 @@
       💬 “卫星图上的每一个像素，都是我冒险的地图；番剧里的每一个世界，都是心灵放飞的场所。”
     </p>
     <br/>
+    <!-- 新增：动漫风格访问计数器（适配页面配色） -->
+    <div style="margin: 12px 0; padding: 8px; background: rgba(255, 255, 255, 0.6); border-radius: 20px;">
+      <p style="margin: 8px 0; color: #9B4F96; font-weight: 500;">👀 同好来访数：</p>
+      <img src="https://access-counter.vercel.app/api/counter?name=linrane&theme=006&length=7" alt="二次元访问计数器" style="height: 80px; border-radius: 8px;" />
+      <!-- 备用：如果上面的计数器加载失败，用moe-counter兜底 -->
+      <!-- <img src="https://moe-counter.glitch.me/@linrane?theme=gelbooru" alt="二次元访问计数器" style="height: 80px; border-radius: 8px;" /> -->
+    </div>
+    <br/>
     <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
       <img src="https://img.shields.io/badge/-Anime%20Enthusiast-FF69B4?style=flat-square&logo=myanimelist&logoColor=white" />
       <img src="https://img.shields.io/badge/-Manga%20Reader-9B4F96?style=flat-square&logo=bookstack&logoColor=white" />
@@ -96,7 +104,6 @@
     </div>
   </div>
 </div>
-
 <!-- ================= 趣味分割 + 语录 ================= -->
 <hr style="width:80%; border:1px solid #d0e0e0; opacity:0.5; margin:30px auto;" />
 <div align="center">
