@@ -18,7 +18,7 @@
   <a href="https://github.com/linrane"><img src="https://img.shields.io/badge/GitHub-linrane-2F4F4F?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="mailto:linrane111@gmail.com"><img src="https://img.shields.io/badge/Email-linrane111%40gmail.com-5D9B9B?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://myanimelist.net/profile/linrane"><img src="https://img.shields.io/badge/MyAnimeList-linrane-FF69B4?style=flat-square&logo=myanimelist&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=linrane&style=flat-square&color=lightgrey" alt="Profile views" />
+  
 </div>
 
 <br/>
