@@ -10,8 +10,8 @@
   <img src="https://github.com/linrane.png?size=160" width="160" style="border-radius: 50%; border: 4px solid #A3C9C9; box-shadow: 0 6px 14px rgba(0, 40, 40, 0.2); margin-bottom: 12px;" />
   <h2 style="margin: 6px 0 4px; color: #2F4F4F;">linrane</h2>
   <p style="font-size: 1.1em; max-width: 600px; color: #3B5E5E;">
-    🌍 把遥感卫星当作眼睛，把二次元当作心灵栖息地<br/>
-    🛰️ 地理信息科学 · 深度学习 · 开源GEEK · 番剧收藏家
+    🌍 把遥感卫星当作窥测世界的眼睛，把二次元当作心灵栖息地<br/>
+    🛰️ 地信遥感 · 全栈算法GISER · 开源GEEK · 番剧收藏家
   </p>
   <br/>
   <!-- 社交/联系徽章 -->
@@ -84,9 +84,9 @@
 <div align="center">
   <div style="display: inline-block; background: linear-gradient(145deg, #fff3f8, #ffe4ed); border-radius: 48px; padding: 16px 28px; box-shadow: 0 6px 16px #ffd9e2;">
     <p style="font-size: 1.2em; margin: 0;">
-      📺 近期在看：<code>葬送的芙莉莲</code> · <code>迷宫饭</code> · <code>无职转生</code><br/>
-      🎵 无限循环：<em>「使一颗心免于哀伤」</em> · 各种 动画 OP/ED<br/>
-      💬 “卫星图上的每一个像素，都是我冒险的地图；番剧里的每一个世界，都是心灵放飞的场所。”
+      📺 近期在看：<code>葬送的芙莉莲</code> · <code>辉夜大小姐想让我告白</code> · <code>JOJO的奇妙冒险</code><br/>
+      🎵 无限循环：<em>「使一颗心免于哀伤」</em> <br/>
+      💬 “在卫星图上冒险，在二次元中欢唱。”
     </p>
     <br/>
     <!-- 新增：动漫风格访问计数器（适配页面配色） -->
@@ -115,5 +115,5 @@
     <a href="https://github.com/linrane?tab=repositories"><img src="https://img.shields.io/badge/📦%20all%20repositories-1E6F6F?style=for-the-badge" /></a>
     <a href="https://twitter.com/linrane_geo"><img src="https://img.shields.io/badge/twitter-%40linrane__geo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   </p>
-  <sub>✨ 保持好奇，探索地球与二次元的每一个角落 ✨</sub>
+  <sub>✨ 保持好奇，地球与二次元，尽在掌中 ✨</sub>
 </div>
