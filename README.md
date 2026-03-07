@@ -117,5 +117,3 @@
   </p>
   <sub>✨ 保持好奇，探索地球与二次元的每一个角落 ✨</sub>
 </div>
-
-![Profile Views](https://moe-counter.glitch.me/@Linrane?theme=gelbooru)
